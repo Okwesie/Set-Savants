@@ -30,7 +30,7 @@ Welcome to the Set Servants project! This project focuses on the intersection of
 - **Universal Symbols:**
   - **Propositional Logic:** Variables (p, q, r, s, o), conjunction (^), disjunction (V), negation (-), true (T), false (F).
   - **Boolean Algebra:** "Or" (+), "And" (.), complement (').
-  - **Set Theory:** Symbols for conjunction, disjunction, intersection, union, and the universal set.
+  - **Set Theory:** Symbols for conjunction(∧), disjunction(∨), intersection(∩), union(∪), and the universal set(U).
 
 ## Testing
 
